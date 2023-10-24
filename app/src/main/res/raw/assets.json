@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Miguel Anxo Bastos",
+    "description": "La lucha continua",
+    "img": "bastos",
+    "sound_resource": "miguel_ancho_bastos"
+  },
+  {
+    "name": "Juan Ramón Rallo",
+    "img": "rallo",
+    "description": "El libre mercado nos beneficia a todos",
+    "sound_resource": "rallo_2"
+  },
+  {
+    "name": "Juan Ramón Rallo",
+    "description": "Jo defiendo la libertad",
+    "img": "rallo",
+    "sound_resource": "juan_ramon_rallo"
+  },
+  {
+    "name": "Jesús Huerta de Soto",
+    "img": "huerta_de_soto",
+    "description": "El profesor Rallo me parece un tibio socialdemocrata",
+    "sound_resource": "huerta_de_soto"
+  },
+  {
+    "name": "Jesús Huerta de Soto",
+    "img": "huerta_de_soto",
+    "description": "No hay peor enemigo para la libertad, que el liberal clásico",
+    "sound_resource": "huerta_de_soto_2"
+  },
+  {
+    "name": "Jesús Huerta de Soto",
+    "img": "huerta_de_soto",
+    "description": "No encontraran a nadie mas radical i puro que jo",
+    "sound_resource": "huerta_de_soto_3"
+  }
+]
